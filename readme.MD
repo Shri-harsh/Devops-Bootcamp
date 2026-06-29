@@ -1,3 +1,6 @@
+This is a simple file.
+
+This is a new file frpm new_branch
 this is a simple file.
 
 This is sample file from demo 1.
